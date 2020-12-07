@@ -1,0 +1,16 @@
+{
+  "name": "buykoins",
+  "version": "1.0.0",
+  "main": "mygraphql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^15.4.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
